@@ -32,6 +32,7 @@ git rebase -i HEAD~5
 git checkout development
 git reset --hard recovered-dev
 git push origin development --force-with-lease
+```
 
 ---
 
